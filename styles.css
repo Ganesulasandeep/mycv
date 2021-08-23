@@ -1,0 +1,34 @@
+body {
+    background-color:#CDF0EA;
+  }
+  hr {
+    background-color:#CDF0EA;
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px;
+    border-color:grey;
+    height: 1px;
+    width:5%;
+
+  }
+ table {
+   border:none;
+ }
+
+ td{
+   border-style: none;
+
+
+ }
+ th {
+   border-style: none;
+ }
+h1 {
+  color: #835858;
+}
+h3 {
+  color: #835858;
+}
+ul{
+  color: #463333;
+}
